@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 Java Car Booking System
+# 🚗 DD Car RentalCar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=500&height=40&lines=Book,+Rent,+and+Pay+in+One+App!)](https://git.io/typing-svg)
 
